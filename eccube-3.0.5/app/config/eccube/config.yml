@@ -1,0 +1,9 @@
+auth_magic: ZPP38dO22LQCqYFHtAlek6B2qiuR0jYq
+password_hash_algos: sha256
+shop_name: プラグインテスト
+force_ssl: null
+admin_allow_host: {  }
+cookie_lifetime: 0
+locale: ja
+timezone: Asia/Tokyo
+eccube_install: 1
