@@ -15,3 +15,7 @@ CakePHP 2
 Vagrantfile
 .vagrant/
 eccube-3.0.5.tar.gz
+
+.idea/*
+
+eccube-3.0.5/app/cache/*
